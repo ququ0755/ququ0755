@@ -1,3 +1,3 @@
 Hello💪
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ququ0755)](https://github.com/anuraghazra/github-readme-stats)
+[![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=ququ0755)](https://readme-stats.clckblog.space/)
